@@ -12,9 +12,10 @@
 🍎 Extensive knowledge in understanding Business Requirements Document, Functional Requirements Document, and Software Requirement Specifications.
 
 📫How to find me: 
-<https://www.linkedin.com/in/julia-delmar/>
+**https://www.linkedin.com/in/julia-delmar/**
 
 🛠️ Languages and Tools :
+
 
 
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/295f90dc-a3bf-4eb1-a222-c9ffe1238eb3)
