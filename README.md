@@ -14,8 +14,9 @@
 📫How to find me: 
 <https://www.linkedin.com/in/julia-delmar/>
 
-
 🛠️ Languages and Tools :
+
+
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/295f90dc-a3bf-4eb1-a222-c9ffe1238eb3)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/1eab2f75-424a-4c76-aa6b-facc94891810)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/a8f96a73-8262-4c5c-bd92-671cf579d2ee)
