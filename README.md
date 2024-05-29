@@ -5,6 +5,6 @@ About me
 🌱 I’m engaged in self-education, learning programming languages, tasks in Codewars or Hackerrank, and improving my knowledge base in Automation testing.
 
 📫How to find me: 
-![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/9d901537-86cf-4c43-95f6-d8a416afcddf)
+![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/9d901537-86cf-4c43-95f6-d8a416afcddf)<https://www.linkedin.com/in/julia-delmar/>
 
 
