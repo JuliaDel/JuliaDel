@@ -17,7 +17,8 @@ Python  JavaScript  CSS  MySQL  NodeJS  Chrome  Webstorm  HTML  Firefox  Jira  M
 
 📫How to find me: 
 <https://www.linkedin.com/in/julia-delmar/>
-![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/d0d5cc55-9759-496c-ae1e-11321b76fe3d)
+
+🛠️ Languages and Tools :
 
 
 
