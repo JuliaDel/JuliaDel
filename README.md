@@ -21,7 +21,6 @@
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/1eab2f75-424a-4c76-aa6b-facc94891810)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/a8f96a73-8262-4c5c-bd92-671cf579d2ee)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/11972d14-a233-40f3-aebb-7b9b5d3932f0)
-![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/da664662-341d-46cc-b3aa-43cfe4cb0d89)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/66d52cba-ee96-4db2-a8d7-111152a75d8e)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/3da4887f-b6a5-4558-9e58-c144cc3e2935)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/b9fd4e1f-7f2f-4fa1-a015-58cb6bc74fb9)
