@@ -33,7 +33,6 @@
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/c4f43164-65a8-4089-8c58-b026102d4488)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/d1e2b8e8-0153-4965-95ad-874a3219c4bc)
 
-**https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg**
 
 
 
