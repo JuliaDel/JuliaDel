@@ -33,6 +33,8 @@
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/c4f43164-65a8-4089-8c58-b026102d4488)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/ecb36c68-83a2-4522-adbf-28c464e273d7)
 ![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/f60a7e8c-88ff-4d07-b621-441fcbc4c75b)
+![image](https://github.com/JuliaDel/JuliaDel/assets/170366805/ed5c27ec-3287-4d4b-880a-29be687e370f)
+
 
 
 
